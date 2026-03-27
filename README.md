@@ -115,21 +115,25 @@ $ ls -la ~/projects/
 > ✨ This profile features an interactive **GhostCursor** effect powered by [React Bits](https://www.reactbits.dev/).  
 > Visit my **[Portfolio](https://github.com/Sanjay160805/Sanjay_Portfolio)** to experience it live — move your cursor and watch the magic.
 
-```jsx
-// GhostCursor — active on my portfolio
-<GhostCursor
-  color="#00FF41"         // matrix green
-  brightness={2}
-  trailLength={50}
-  inertia={0.5}
-  grainIntensity={0.05}
-  bloomStrength={0.1}
-  bloomRadius={1}
-  bloomThreshold={0.025}
-  fadeDelayMs={1000}
-  fadeDurationMs={1500}
-/>
-```
+
+In your layout or page component
+import GhostCursor from './GhostCursor'
+
+<div style={{ height: '100vh', position: 'relative' }}>
+  <GhostCursor
+    color="#00FF41"
+    brightness={2}
+    trailLength={50}
+    inertia={0.5}
+    grainIntensity={0.05}
+    bloomStrength={0.1}
+    bloomRadius={1}
+    bloomThreshold={0.025}
+    fadeDelayMs={1000}
+    fadeDurationMs={1500}
+  />
+  {/* rest of your page */}
+</div>```
 
 <!-- 
   OPTIONAL: Replace below with a GIF recording of the GhostCursor in action on your portfolio
@@ -144,7 +148,7 @@ $ ls -la ~/projects/
 
 ```bash
 $ sudo git stats --user=Sanjay160805
-```
+
 
 <div align="center">
 
