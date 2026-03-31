@@ -230,7 +230,7 @@ Just as Thor bore the belt **Megingjord** to double his strength and **Jarngreip
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanjay160805&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sanjay160805&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
