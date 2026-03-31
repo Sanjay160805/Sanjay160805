@@ -3,23 +3,37 @@
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0F1A,FEA724,09E7D2&height=10&section=header" />
+
+<!-- TOP LIGHTNING DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,24&height=100&section=header&text=&fontSize=0" />
+
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,24&height=160&text=%E2%9A%A1%20%20SANJAY%20CHRISTOPHER%20RAJ%20%20%E2%9A%A1&fontSize=38&fontColor=FEA724&animation=fadeIn&fontAlignY=45&desc=Son+of+Chennai+%C2%B7+Wielder+of+Code+%C2%B7+Born+of+Thunder&descSize=17&descAlignY=72&descColor=09E7D2" />
+
+<!-- NAME — Cinzel Decorative (regal, Norse, serif) — GOLD -->
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=900&size=42&pause=999999&color=FEA724&center=true&vCenter=true&repeat=false&width=860&height=70&lines=%E2%9A%A1+SANJAY+CHRISTOPHER+RAJ+%E2%9A%A1" alt="Name" />
+
+</div>
+
+<div align="center">
+
+<!-- SUBTITLE — Share Tech Mono (techy, terminal) — TEAL -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=18&pause=999999&color=09E7D2&center=true&vCenter=true&repeat=false&width=860&height=36&lines=Son+of+Chennai+%C2%B7+Wielder+of+Code+%C2%B7+Born+of+Thunder" alt="Subtitle" />
+
+</div>
+
+<div align="center">
+
+<!-- ROTATING TAGLINES — Fira Code (dev energy) — AMBER -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=FADF7F&center=true&vCenter=true&width=860&height=36&lines=Full-Stack+%7C+Blockchain+%7C+AI%2FML+%7C+Cybersecurity;%E2%9A%A1+WHOSOEVER+IS+WORTHY+SHALL+WIELD+THIS+CODE+%E2%9A%A1;From+Thrudvangr+to+Midgard+-+I+build+what+matters.;The+hammer+was+Mjolnir.+Mine+is+a+keyboard.;I+have+no+plans+to+stop+shipping." alt="Taglines" />
+
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://github.com/Sanjay160805/Sanjay160805/raw/main/thor_meme.jpg" width="360" alt="Thor — Son of Odin" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=900&size=18&pause=1200&color=FEA724&center=true&vCenter=true&width=860&height=60&lines=%E2%9A%A1+WHOSOEVER+IS+WORTHY+SHALL+WIELD+THIS+CODE+%E2%9A%A1;I+am+Sanjay+Christopher+Raj.+Son+of+Chennai.;From+Thrudvangr+to+Midgard+-+I+build+what+matters.;The+hammer+was+Mjolnir.+Mine+is+a+keyboard.;Full-Stack.+Blockchain.+AI%2FML.+Born+of+Thunder.;I+have+no+plans+to+stop+shipping." alt="Typing SVG" />
 </div>
 
 <br/>
@@ -274,18 +288,20 @@ Just as Thor bore the belt **Megingjord** to double his strength and **Jarngreip
 <br/>
 
 <div align="center">
-  <br/>
-  <strong>⚡ ════════════════════════════════════════════════════════════ ⚡</strong>
-  <br/><br/>
-  <h3>❝ Asgard is not a place. It never was. <br/> Asgard is where our people stand. ❞</h3>
-  <sub><strong>— Thor: Ragnarok, 2017</strong></sub>
-  <br/><br/>
-  <em>My code is not a repository. It never was.</em>
-  <br/>
-  <em>It is wherever the people who use it stand.</em>
-  <br/><br/>
-  <strong>⚡ ════════════════════════════════════════════════════════════ ⚡</strong>
-  <br/>
+
+<!-- CLOSING QUOTE — Cinzel Decorative — matches opening font -->
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=15&pause=999999&color=A8A9AD&center=true&vCenter=true&repeat=false&width=860&height=32&lines=%22+Asgard+is+not+a+place.+It+never+was.+%22" alt="Quote line 1" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=15&pause=999999&color=A8A9AD&center=true&vCenter=true&repeat=false&width=860&height=32&lines=%22+Asgard+is+where+our+people+stand.+%22" alt="Quote line 2" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=13&pause=999999&color=444444&center=true&vCenter=true&repeat=false&width=860&height=26&lines=—+Thor%3A+Ragnarok%2C+2017" alt="Quote attribution" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=999999&color=09E7D2&center=true&vCenter=true&repeat=false&width=860&height=28&lines=My+code+is+not+a+repository.+It+never+was." alt="Recontextualization 1" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=999999&color=09E7D2&center=true&vCenter=true&repeat=false&width=860&height=28&lines=It+is+wherever+the+people+who+use+it+stand." alt="Recontextualization 2" />
+
 </div>
 
 <br/>
