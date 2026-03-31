@@ -231,13 +231,18 @@ Just as Thor bore the belt **Megingjord** to double his strength and **Jarngreip
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sanjay160805&show_icons=true&hide_border=true&title_color=FEA724&icon_color=09E7D2&text_color=A8A9AD&bg_color=0D0F1A&include_all_commits=true&count_private=true" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay160805&layout=compact&hide_border=true&title_color=FEA724&text_color=A8A9AD&bg_color=0D0F1A&langs_count=6" width="42%" />
+![Commits](https://img.shields.io/badge/Total%20Commits-148-FEA724?style=for-the-badge&labelColor=0D0F1A&color=FEA724)
+![Repos](https://img.shields.io/badge/Public%20Repos-6-09E7D2?style=for-the-badge&labelColor=0D0F1A&color=09E7D2)
+![Followers](https://img.shields.io/badge/Followers-6-2EE366?style=for-the-badge&labelColor=0D0F1A&color=2EE366)
+![Stars](https://img.shields.io/badge/Stars%20Earned-0-FADF7F?style=for-the-badge&labelColor=0D0F1A&color=FADF7F)
+
+<br/>
+
+![Python](https://img.shields.io/badge/⚔️%20Primary%20Weapon-Python-0D0F1A?style=for-the-badge&logo=python&logoColor=FEA724)
+![TypeScript](https://img.shields.io/badge/🛡️%20Secondary%20Weapon-TypeScript-0D0F1A?style=for-the-badge&logo=typescript&logoColor=139DDB)
+![Jupyter](https://img.shields.io/badge/📜%20Battle%20Scroll-Jupyter-0D0F1A?style=for-the-badge&logo=jupyter&logoColor=09E7D2)
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--          ACT VI — GITHUB STATS / THE CHRONICLES       -->
 <!-- ═══════════════════════════════════════════════════════ -->
