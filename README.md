@@ -230,11 +230,14 @@ Just as Thor bore the belt **Megingjord** to double his strength and **Jarngreip
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sanjay160805&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sanjay160805&show_icons=true&hide_border=true&title_color=FEA724&icon_color=09E7D2&text_color=A8A9AD&bg_color=0D0F1A&include_all_commits=true&count_private=true" width="48%" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay160805&layout=compact&hide_border=true&title_color=FEA724&text_color=A8A9AD&bg_color=0D0F1A&langs_count=6" width="42%" />
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
 <!-- ═══════════════════════════════════════════════════════ -->
 <!--          ACT VI — GITHUB STATS / THE CHRONICLES       -->
 <!-- ═══════════════════════════════════════════════════════ -->
