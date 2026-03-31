@@ -232,9 +232,9 @@ Just as Thor bore the belt **Megingjord** to double his strength and **Jarngreip
 <div align="center">
 
 ![Commits](https://img.shields.io/badge/Total%20Commits-148-FEA724?style=for-the-badge&labelColor=0D0F1A&color=FEA724)
-![Repos](https://img.shields.io/badge/Public%20Repos-6-09E7D2?style=for-the-badge&labelColor=0D0F1A&color=09E7D2)
-![Followers](https://img.shields.io/badge/Followers-6-2EE366?style=for-the-badge&labelColor=0D0F1A&color=2EE366)
-![Stars](https://img.shields.io/badge/Stars%20Earned-0-FADF7F?style=for-the-badge&labelColor=0D0F1A&color=FADF7F)
+![Repos](https://img.shields.io/github/public-repos/Sanjay160805?style=for-the-badge&labelColor=0D0F1A&color=09E7D2&label=Public%20Repos)
+![Followers](https://img.shields.io/github/followers/Sanjay160805?style=for-the-badge&labelColor=0D0F1A&color=2EE366&label=Followers)
+![Stars](https://img.shields.io/github/stars/Sanjay160805?style=for-the-badge&labelColor=0D0F1A&color=FADF7F&label=Stars%20Earned)
 
 <br/>
 
