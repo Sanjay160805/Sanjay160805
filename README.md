@@ -13,7 +13,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github.com/Sanjay160805/Sanjay160805/raw/main/thor.jpeg" width="360" alt="Thor — Son of Odin" />
+  <img src="https://github.com/Sanjay160805/Sanjay160805/raw/main/thor_meme.jpg" width="360" alt="Thor — Son of Odin" />
 </div>
 
 <br/>
