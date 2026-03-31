@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=900&size=22&pause=1200&color=FEA724&center=true&vCenter=true&width=800&lines=⚡+WHOSOEVER+IS+WORTHY+SHALL+WIELD+THIS+CODE+⚡;I+am+Sanjay+Christopher+Raj.+Son+of+Chennai.;From+Þrúðvangr+to+Midgard+—+I+build+what+matters.;The+hammer+was+Mjölnir.+Mine+is+a+keyboard." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=900&size=20&pause=1200&color=FEA724&center=true&vCenter=true&width=820&lines=%E2%9A%A1+WHOSOEVER+IS+WORTHY+SHALL+WIELD+THIS+CODE+%E2%9A%A1;I+am+Sanjay+Christopher+Raj.+Son+of+Chennai.;From+%C3%9Eр%C3%BAdvangr+to+Midgard+%E2%80%94+I+build+what+matters.;The+hammer+was+Mj%C3%B6lnir.+Mine+is+a+keyboard." alt="Typing SVG" />
 </div>
 
 <br/>
@@ -23,6 +23,7 @@
 <br/>
 
 <div align="center">
+
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
@@ -41,7 +42,8 @@
 > *In the age before time was measured in commits and deployments,*
 > *the god of thunder built his hall — Bilskirnir — five hundred and forty rooms,*
 > *the greatest structure in all the Nine Realms.*
-> *I build mine line by line.*
+> *I build mine, line by line.*
+
 ```yaml
 ⚡  NAME          :  Sanjay Christopher Raj
 🏛️  REALM         :  Loyola ICAM College of Engineering, Chennai — Midgard
@@ -63,7 +65,7 @@ Just as Thor bore the belt **Megingjörð** to double his strength and **Járngr
 ## ⚒️ II. THE FORGE OF BROKKR — *Arsenal of the Nine Realms*
 
 > *When Loki wagered against the dwarves Brokkr and Sindri, what emerged from their forge*
-> *was Mjölnir — the crusher, the most feared object across all Nine Realms.*
+> *was Mjölnir — the crusher, the most feared weapon across all Nine Realms.*
 > *These are the tools forged in my own fires.*
 
 **🔨 Mjölnir's Edge — Frontend**
@@ -120,33 +122,7 @@ Just as Thor bore the belt **Megingjörð** to double his strength and **Járngr
 
 ---
 
-## 📜 IV. THE CHRONICLES — *Runes of Contribution*
-
-> *The skalds of Asgard recorded every battle in runes carved into stone.*
-> *GitHub records mine.*
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sanjay160805&show_icons=true&hide_border=true&title_color=FEA724&icon_color=09E7D2&text_color=A8A9AD&bg_color=0D0F1A" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay160805&layout=compact&hide_border=true&title_color=FEA724&text_color=A8A9AD&bg_color=0D0F1A" width="41%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sanjay160805&hide_border=true&background=0D0F1A&ring=FEA724&fire=CC0E1D&currStreakLabel=09E7D2&sideLabels=A8A9AD&dates=404B56&sideNums=FADF7F" width="56%" />
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanjay160805&bg_color=0D0F1A&color=FEA724&line=09E7D2&point=2EE366&area_color=4D0E33&area=true&hide_border=true)](https://github.com/Sanjay160805)
-
-</div>
-
----
-
-## 📡 V. OPEN THE BIFRÖST — *Summon the Thunder God*
+## 📡 IV. OPEN THE BIFRÖST — *Summon the Thunder God*
 
 > *Heimdall needs but a thought to open the Bifröst.*
 > *You need but a click.*
@@ -163,22 +139,23 @@ Just as Thor bore the belt **Megingjörð** to double his strength and **Járngr
 <br/>
 
 <div align="center">
-```
-⚡ ══════════════════════════════════════════════════════════════════ ⚡
-
-   "Asgard is not a place. It never was.
-    Asgard is where our people stand."
-
-    — Thor: Ragnarok, 2017
-
-   My code is not a repository. It never was.
-   It is wherever the people who use it stand.
-
-⚡ ══════════════════════════════════════════════════════════════════ ⚡
-```
-
+  <strong>⚡ ══════════════════════════════════════════════════════════════════ ⚡</strong>
+  <br/><br/>
+  <em>"Asgard is not a place. It never was.</em>
+  <br/>
+  <em>Asgard is where our people stand."</em>
+  <br/>
+  <strong>— Thor: Ragnarok, 2017</strong>
+  <br/><br/>
+  <em>My code is not a repository. It never was.</em>
+  <br/>
+  <em>It is wherever the people who use it stand.</em>
+  <br/><br/>
+  <strong>⚡ ══════════════════════════════════════════════════════════════════ ⚡</strong>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=130&section=footer&text=Worthy.+Always.+⚡&fontColor=FEA724&fontSize=28&fontAlignY=65&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=130&section=footer&text=Worthy.+Always.+%E2%9A%A1&fontColor=FEA724&fontSize=28&fontAlignY=65&animation=twinkling" />
 </div>
