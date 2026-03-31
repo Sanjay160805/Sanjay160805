@@ -3,11 +3,17 @@
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,30&height=220&text=%E2%9A%A1%20SANJAY%20CHRISTOPHER%20RAJ%20%E2%9A%A1&fontSize=32&fontColor=FEA724&animation=twinkling&fontAlignY=55&desc=Son+of+Chennai+%C2%B7+Wielder+of+Code+%C2%B7+Born+of+Thunder&descSize=16&descAlignY=75&descColor=09E7D2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0F1A,FEA724,09E7D2&height=10&section=header" />
 </div>
 
 <div align="center">
-  <img src="https://github.com/Sanjay160805/Sanjay160805/raw/main/thor.jpeg" width="360" alt="Thor — Son of Odin" style="border-radius: 12px;" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,24&height=160&text=%E2%9A%A1%20%20SANJAY%20CHRISTOPHER%20RAJ%20%20%E2%9A%A1&fontSize=38&fontColor=FEA724&animation=fadeIn&fontAlignY=45&desc=Son+of+Chennai+%C2%B7+Wielder+of+Code+%C2%B7+Born+of+Thunder&descSize=17&descAlignY=72&descColor=09E7D2" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/Sanjay160805/Sanjay160805/raw/main/thor.jpeg" width="360" alt="Thor — Son of Odin" />
 </div>
 
 <br/>
@@ -268,23 +274,22 @@ Just as Thor bore the belt **Megingjord** to double his strength and **Jarngreip
 <br/>
 
 <div align="center">
-  <strong style="color:#FEA724;">⚡ ═══════════════════════════════════════════════════════════════════ ⚡</strong>
-  <br/><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=14&pause=9999&color=A8A9AD&center=true&vCenter=true&width=820&lines=%22Asgard+is+not+a+place.+It+never+was.+Asgard+is+where+our+people+stand.%22" alt="Ragnarok Quote" />
   <br/>
+  <strong>⚡ ════════════════════════════════════════════════════════════ ⚡</strong>
+  <br/><br/>
+  <h3>❝ Asgard is not a place. It never was. <br/> Asgard is where our people stand. ❞</h3>
   <sub><strong>— Thor: Ragnarok, 2017</strong></sub>
   <br/><br/>
-  <em>My code is not a repository.</em>
-  <br/>
-  <em>It never was.</em>
+  <em>My code is not a repository. It never was.</em>
   <br/>
   <em>It is wherever the people who use it stand.</em>
   <br/><br/>
-  <strong>⚡ ═══════════════════════════════════════════════════════════════════ ⚡</strong>
+  <strong>⚡ ════════════════════════════════════════════════════════════ ⚡</strong>
+  <br/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=140&section=footer&text=Worthy.+Always.+%E2%9A%A1&fontColor=FEA724&fontSize=30&fontAlignY=65&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,24&height=140&section=footer&text=Worthy.+Always.+%E2%9A%A1&fontColor=FEA724&fontSize=30&fontAlignY=65&animation=twinkling" />
 </div>
