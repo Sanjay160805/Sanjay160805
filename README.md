@@ -1,16 +1,5 @@
-<!-- MEME VIDEO INTRO — Replace with your CDN link from a GitHub Issue upload -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4dGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eA/giphy.gif" width="300" alt="meme intro" />
-  <!-- 
-    HOW TO ADD YOUR OWN MEME VIDEO:
-    1. Go to any GitHub Issue (even a random repo)
-    2. Drag & drop your .mp4 meme video into the comment box
-    3. GitHub gives you a CDN link ending in .mp4
-    4. Replace the gif above with: <video src="YOUR_CDN_LINK" autoplay loop muted width="100%"></video>
-    
-    OR use this meme gif placeholder until you have the video:
-    Search giphy.com for "chihuahua gangster" or "dog knife" for something matching your DP 😂
-  -->
+  <img src="https://github.com/Sanjay160805/Sanjay160805/raw/main/YOOOOOOOOOO.gif" width="300" alt="meme intro" />
 </div>
 
 <br/>
@@ -20,7 +9,7 @@
 </div>
 
 <div align="center">
-  <code style="color:#00FF41;">[ ENGINEER · LEADER · INNOVATOR ]</code>
+  <code>[ ENGINEER · LEADER · INNOVATOR ]</code>
 </div>
 
 <br/>
@@ -116,7 +105,6 @@ VIBE     : Stay curious. Stay dangerous. 🐕‍🦺🔪
 > ✨ My portfolio features an interactive **GhostCursor** effect — move your cursor and watch the magic.  
 > Visit 👉 **[Portfolio Live ↗](https://github.com/Sanjay160805/Sanjay_Portfolio)**
 ```tsx
-// Drop this in your layout or page component
 import GhostCursor from './GhostCursor'
 
 <div style={{ height: '100vh', position: 'relative' }}>
@@ -132,7 +120,6 @@ import GhostCursor from './GhostCursor'
     fadeDelayMs={1000}
     fadeDurationMs={1500}
   />
-  {/* rest of your page */}
 </div>
 ```
 
