@@ -294,7 +294,7 @@ Just as Thor bore the belt **Megingjord** to double his strength and **Jarngreip
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=15&pause=999999&color=A8A9AD&center=true&vCenter=true&repeat=false&width=860&height=32&lines=%22+Asgard+is+where+our+people+stand.+%22" alt="Quote line 2" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=400&size=13&pause=999999&color=444444&center=true&vCenter=true&repeat=false&width=860&height=26&lines=—+Thor%3A+Ragnarok%2C+2017" alt="Quote attribution" />
+
 
 <br/>
 
