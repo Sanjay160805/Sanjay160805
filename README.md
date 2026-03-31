@@ -1,122 +1,122 @@
-<!-- VIDEO — Upload your .mp4 to a GitHub Issue to get a CDN link, then replace below -->
+<!-- MEME VIDEO INTRO — Replace with your CDN link from a GitHub Issue upload -->
 <div align="center">
-  <img src="YOUR_VIDEO_CDN_LINK_HERE" width="100%" alt="intro" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4dGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eGZ6eA/giphy.gif" width="300" alt="meme intro" />
+  <!-- 
+    HOW TO ADD YOUR OWN MEME VIDEO:
+    1. Go to any GitHub Issue (even a random repo)
+    2. Drag & drop your .mp4 meme video into the comment box
+    3. GitHub gives you a CDN link ending in .mp4
+    4. Replace the gif above with: <video src="YOUR_CDN_LINK" autoplay loop muted width="100%"></video>
+    
+    OR use this meme gif placeholder until you have the video:
+    Search giphy.com for "chihuahua gangster" or "dog knife" for something matching your DP 😂
+  -->
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%5B+ACCESS+GRANTED+%5D;Hi%2C+I'm+Sanjay+Christopher+Raj;Full-Stack+%7C+Blockchain+%7C+AI%2FML;Always+Learning.+Always+Building." alt="Typing SVG" />
-</h1>
+<br/>
 
-<h3 align="center">
-  <code>> ENGINEER · LEADER · INNOVATOR</code>
-</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%5B+ACCESS+GRANTED+%5D;Hello%2C+World.+I'm+Sanjay+Christopher+Raj.;Full-Stack+%7C+Blockchain+%7C+AI%2FML;Curious+by+nature.+Dangerous+by+skill." alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sanjay160805&label=PROFILE+VIEWS&color=00ff41&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Sanjay160805?label=FOLLOWERS&style=flat-square&color=00ff41&labelColor=0d1117" />
-</p>
+<div align="center">
+  <code style="color:#00FF41;">[ ENGINEER · LEADER · INNOVATOR ]</code>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sanjay160805&label=PROFILE+VIEWS&color=00ff41&style=for-the-badge&labelColor=0d1117" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Sanjay160805?label=FOLLOWERS&style=for-the-badge&color=00ff41&labelColor=0d1117" />
+</div>
 
 ---
 
+## `> whoami`
 ```bash
-$ whoami
+NAME     : Sanjay Christopher Raj
+COLLEGE  : Loyola ICAM College of Engineering, Chennai
+STATUS   : [ ONLINE ] — Passionate learner. Natural leader.
+MISSION  : Build things that matter. Lead teams that deliver.
+VIBE     : Stay curious. Stay dangerous. 🐕‍🦺🔪
 ```
 
-```
-> NAME    : Sanjay Christopher Raj
-> COLLEGE : Loyola ICAM College of Engineering, Chennai
-> STATUS  : [ ONLINE ] — Passionate learner. Natural leader.
-> MISSION : Build things that matter. Lead teams that deliver.
-```
-
-I'm a developer who's deeply passionate about **learning new things** and **leading people** toward a shared vision. Whether it's shipping a full-stack product, writing a smart contract, or crafting an AI-powered solution — I bring curiosity and ownership to everything I build.
-
-- 🔭 Currently exploring **Web3, AI/ML & Cybersecurity**
-- 🧠 Passionate about **Prompt Engineering & Blockchain**
-- 🏆 Strong in **Leadership, Team Collaboration & Execution**
-- 📍 Based in **Chennai, India**
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/sanjay160805/)**
-
----
-
-## `[ ARSENAL ]` — Tech Stack
+> A developer who ships full-stack products, writes smart contracts, and breaks things beautifully with AI.  
+> I bring **curiosity** and **ownership** to everything I touch.
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### ⚡ Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js"/>
-  <img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/>
-</p>
-
-`React` `Next.js` `TypeScript` `JavaScript`
-
-### 🔧 Backend & Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java"/>
-</p>
-
-`Node.js` `Python` `Java`
-
-</td>
-<td width="50%" valign="top">
-
-### ⛓️ Blockchain / Web3
-<p>
-  <img src="https://skillicons.dev/icons?i=solidity" width="40" height="40" alt="Solidity"/>
-</p>
-
-`Solidity` `Move`
-
-### 🤖 Emerging Tech
-
-`Prompt Engineering` `AI/ML Integration`
-
-### 🛠️ Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VSCode"/>
-</p>
-
-`Git` `GitHub` `VS Code`
-
-</td>
+<td>🔭 Exploring</td><td><b>Web3 · AI/ML · Cybersecurity</b></td>
+</tr>
+<tr>
+<td>🧠 Passionate about</td><td><b>Prompt Engineering · Blockchain · Building in public</b></td>
+</tr>
+<tr>
+<td>🏆 Known for</td><td><b>Leadership · Team Execution · Creative Problem Solving</b></td>
+</tr>
+<tr>
+<td>📍 Based in</td><td><b>Chennai, India</b></td>
+</tr>
+<tr>
+<td>📫 Reach me</td><td><a href="https://www.linkedin.com/in/sanjay160805/"><b>LinkedIn ↗</b></a></td>
 </tr>
 </table>
 
 ---
 
-## `[ PROJECTS ]` — Active Deployments
+## `> ls ~/arsenal/` — Tech Stack
 
-```bash
-$ ls -la ~/projects/
-```
+<div align="center">
 
-| # | Project | Description | Stack |
-|---|---------|-------------|-------|
-| 🔐 | [One-Time-File-Sharing](https://github.com/Sanjay160805/One-Time-File-Sharing) | Secure self-destructing file share — one access, then it's gone | Python |
-| 🎭 | [Deepfake](https://github.com/Sanjay160805/Deepfake) | Deepfake detection & generation research | Python |
-| 🥗 | [Nutrition Paradox](https://github.com/Sanjay160805/Nutrition_paradox) | AI-powered nutrition analysis & insight engine | Python |
-| 🚕 | [Fare Taxi](https://github.com/Sanjay160805/faretaxi) | Taxi fare prediction ML model | Jupyter Notebook |
-| 🌌 | [NASA Asteroids Tracker](https://github.com/Sanjay160805/Nasa_asteroids_tracker) | Real-time asteroid proximity tracker via NASA API | Python |
-| 🖥️ | [Portfolio](https://github.com/Sanjay160805/Sanjay_Portfolio) | Personal developer portfolio | TypeScript |
+### ⚡ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🔧 Backend & Languages
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### ⛓️ Blockchain / Web3
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+![Move](https://img.shields.io/badge/Move_Lang-4A90E2?style=for-the-badge&logo=aptos&logoColor=white)
+
+### 🤖 Emerging Tech
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-00FF41?style=for-the-badge&logo=openai&logoColor=black)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
-## `[ CURSOR ]` — Ghost Cursor Experience
+## `> ls ~/projects/` — Active Deployments
 
-> ✨ This profile features an interactive **GhostCursor** effect powered by [React Bits](https://www.reactbits.dev/).  
-> Visit my **[Portfolio](https://github.com/Sanjay160805/Sanjay_Portfolio)** to experience it live — move your cursor and watch the magic.
+| # | Project | Description | Stack |
+|---|---------|-------------|-------|
+| 🔐 | [One-Time-File-Sharing](https://github.com/Sanjay160805/One-Time-File-Sharing) | Secure self-destructing file share — one access, then gone forever | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🎭 | [Deepfake](https://github.com/Sanjay160805/Deepfake) | Deepfake detection & generation research | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🥗 | [Nutrition Paradox](https://github.com/Sanjay160805/Nutrition_paradox) | AI-powered nutrition analysis & insight engine | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🚕 | [Fare Taxi](https://github.com/Sanjay160805/faretaxi) | Taxi fare prediction ML model | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| 🌌 | [NASA Asteroids Tracker](https://github.com/Sanjay160805/Nasa_asteroids_tracker) | Real-time asteroid proximity tracker via NASA API | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| 🖥️ | [Portfolio](https://github.com/Sanjay160805/Sanjay_Portfolio) | Personal developer portfolio with Ghost Cursor | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
 
+---
 
-In your layout or page component
+## `> ./ghostcursor --init` — Ghost Cursor Experience
+
+> ✨ My portfolio features an interactive **GhostCursor** effect — move your cursor and watch the magic.  
+> Visit 👉 **[Portfolio Live ↗](https://github.com/Sanjay160805/Sanjay_Portfolio)**
+```tsx
+// Drop this in your layout or page component
 import GhostCursor from './GhostCursor'
 
 <div style={{ height: '100vh', position: 'relative' }}>
@@ -133,64 +133,40 @@ import GhostCursor from './GhostCursor'
     fadeDurationMs={1500}
   />
   {/* rest of your page */}
-</div>```
-
-<!-- 
-  OPTIONAL: Replace below with a GIF recording of the GhostCursor in action on your portfolio
-  <div align="center">
-    <img src="YOUR_GHOST_CURSOR_GIF_HERE" width="80%" alt="Ghost Cursor Demo" />
-  </div>
--->
+</div>
+```
 
 ---
 
-## `[ TELEMETRY ]` — GitHub Stats
-
-```bash
-$ sudo git stats --user=Sanjay160805
-
+## `> sudo git stats --user=Sanjay160805`
 
 <div align="center">
 
-[![Sanjay's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanjay160805&theme=high-contrast&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/Sanjay160805)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sanjay160805&theme=high-contrast&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/Sanjay160805)
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanjay160805&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanjay160805&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" alt="Top Languages" width="38%" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=Sanjay160805&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" alt="GitHub Stats" width="52%" />
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sanjay160805&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" alt="GitHub Stats" />
-</p>
+<br/>
 
-<p>
-  <img align="center" src="https://streak-stats.demolab.com?user=Sanjay160805&theme=matrix&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" />
-</p>
+<img src="https://streak-stats.demolab.com?user=Sanjay160805&theme=matrix&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" width="55%" />
 
 </div>
 
 ---
 
-## `[ CONNECT ]` — Open Channels
+## `> ping sanjay --all-interfaces`
 
-```bash
-$ ping sanjay --all-interfaces
-```
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sanjay160805/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://github.com/Sanjay160805" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay160805/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sanjay160805)
+
+</div>
 
 ---
 
 <div align="center">
-  <sub>
-    <code>> "Stay curious. Stay dangerous." — EOF</code>
-  </sub>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=80&section=footer&fontColor=00ff41" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=100&section=footer&text=Stay+Curious.+Stay+Dangerous.&fontColor=00ff41&fontSize=18&fontAlignY=65&animation=twinkling" />
 </div>
